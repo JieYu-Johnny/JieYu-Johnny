@@ -4,7 +4,7 @@
 ```
 
 - 👋 Hi, Here is Johnny
-- 👀 一只小菜鸟的进阶之路
+- 👀 困在某双流一大学的菜鸡
 
 <!---
 JieYu-Johnny/JieYu-Johnny is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
